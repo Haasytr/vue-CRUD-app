@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "name": "jonh",
+      "email": "teste@email.com",
+      "password": "123456",
+      "id": "83c1"
+    },
+    {
+      "id": "8ac3",
+      "name": "jonh cena",
+      "email": "parata@email.com",
+      "password": "123"
+    },
+    {
+      "id": "5e51",
+      "name": "testando",
+      "email": "vinicius@hotmail.com",
+      "password": "123"
+    },
+    {
+      "id": "393a",
+      "name": "Rito",
+      "email": "tasf",
+      "password": "123"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Burguer King",
+      "contact": "991512351",
+      "address": "Antonio vieira, 123 "
+    },
+    {
+      "id": 2,
+      "name": "Burguer Domino",
+      "contact": "12312342",
+      "address": "Antonio jair, 321 "
+    },
+    {
+      "id": 3,
+      "name": "Burguer do zé",
+      "contact": "41566233334",
+      "address": "Jardim"
+    },
+    {
+      "name": "teste",
+      "address": "testando",
+      "contact": "123",
+      "id": "9cf9"
+    }
+  ]
+}
